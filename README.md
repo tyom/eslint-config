@@ -11,3 +11,11 @@ npm i eslint-config-tyom
 ```
 yarn add eslint-config-tyom
 ```
+
+Then in `eslintrc`:
+
+```json
+"extends": [
+  "tyom"
+]
+```
