@@ -14,10 +14,10 @@
   },
   "devDependencies": {
     "eslint": "^5.9.0",
-    "prettier": "^1.15.2"
+    "prettier": "~1.14.3"
   },
   "peerDependencies": {
-    "eslint": "^5.0.0",
-    "prettier": "^1.15.0"
+    "eslint": "^5.9.0",
+    "prettier": "~1.14.3"
   }
 }
