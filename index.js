@@ -1,3 +1,3 @@
 module.exports = {
-  extends: ['./base.js', './prettier.js', './jest.js', './vue.js'],
+  extends: ['./base.js', './jest.js', './prettier.js'],
 };
